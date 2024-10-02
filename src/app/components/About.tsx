@@ -5,7 +5,7 @@ const About = () => {
     <section className="p-1">
       <h2 className= "text-2xl font-semibold">About Us</h2>
       <p>
-        We are a team of developers passionate about building modern web applications with cutting-edge technologies like Next.js.
+        We are a team of developers passionate about building modern web application with cutting-edge technologies like Next.js.
       </p>
     </section>
   );
